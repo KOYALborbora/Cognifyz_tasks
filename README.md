@@ -1,3 +1,4 @@
+This Python project explores building a restaurant recommendation system with three key tasks:
 **Task 1: Predicting Ratings (Regression)**
 
 * **Goal:** Estimate a restaurant's overall rating based on other data (e.g., location, price range).
